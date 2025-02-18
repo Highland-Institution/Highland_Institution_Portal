@@ -12,7 +12,7 @@ Financial services
 Implementation Guide:
 - Download and Install Node.js: https://nodejs.org/en
 - Clone the source code.
-- Open a terminal in the Highland Institution home directory.
+- Open a terminal in the home directory.
 - Install dependencies: npm install
 - Run the app using Electron: npm start
 - Build the app using Electron Builder:  npm run electron-builder
