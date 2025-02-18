@@ -10,7 +10,7 @@ Marketplaces
 Financial services
 
 Implementation Guide:
-- Install Node.js.
+- Download and Install Node.js: https://nodejs.org/en
 - Clone the source code.
 - Open a terminal in the Highland Institution home directory.
 - Install dependencies: npm install
