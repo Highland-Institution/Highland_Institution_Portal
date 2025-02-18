@@ -13,6 +13,7 @@ Implementation Guide:
 - Install Node.js.
 - Clone the source code.
 - Open a terminal in the Highland Institution home directory.
+- Install dependencies: npm install
 - Run the app using Electron: npm start
 - Build the app using Electron Builder:  npm run electron-builder
 - Licensing & Contributions
