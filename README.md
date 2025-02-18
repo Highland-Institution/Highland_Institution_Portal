@@ -19,4 +19,4 @@ Implementation Guide:
 Licensing & Contributions
 This software is released under the GNU license, and a commercial version is available through the official website: www.highland-institution.com.
 
-Contributors can submit their developments for consideration in upcoming Highland Institution Portal software versions at :https://portal.highland-institution.com/myaccount/support-tickets/
+Contributors can submit their developments for consideration in upcoming Highland Institution Portal software versions at https://portal.highland-institution.com/myaccount/support-tickets/
