@@ -1,5 +1,5 @@
 # Highland-Institution Portal
-A simple multi-platform (Windows, Linux, Mac) JavaScript Electron template script that opens Highland Institution Portal(https://portal.highland-institution.com).
+A simple multi-platform (Windows, Linux, Mac) JavaScript Electron software that opens Highland Institution Portal(https://portal.highland-institution.com).
 
 Use Cases:
 Virtual organizations
